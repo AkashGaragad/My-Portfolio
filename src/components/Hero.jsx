@@ -54,12 +54,7 @@ const Hero = ({ setHovered, scrollTo }) => {
           </div>
         </Reveal>
       </div>
-      
-      {/* Scroll Indicator */}
-      <div className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 animate-bounce opacity-50">
-        <span className="text-xs uppercase tracking-widest font-light rotate-90 mb-4">Scroll</span>
-        <div className="w-[1px] h-12 bg-gradient-to-b from-white to-transparent"></div>
-      </div>
+    
     </section>
   );
 };
