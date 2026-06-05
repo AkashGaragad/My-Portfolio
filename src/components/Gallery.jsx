@@ -7,6 +7,7 @@ import hubliImg from '../../assets/hubli.jpeg';
 import belagaviImg from '../../assets/belagavi.jpeg';
 import convocationImg from '../../assets/convocation.jpeg';
 import degreeImg from '../../assets/degree.jpeg';
+import ballariImg from '../../assets/ballari.jpeg';
 
 const Gallery = ({ setHovered }) => {
   return (
@@ -23,7 +24,7 @@ const Gallery = ({ setHovered }) => {
             {h: 'h-80', title: 'IndiaNext Hackathon', role: 'Mumbai - Top 30 teams in India', img: bagalkot2Img},
             {h: 'h-96', title: 'Hack Arena Hackathon', role: 'Hubballi - Participant', img: hubliImg},
             {h: 'h-64', title: 'TechNova Event', role: 'Belagavi - Secured 3rd Prize', img: belagaviImg},
-            {h: 'h-80', title: 'Ekathva 3.0 Hackathon', role: 'Ballari - Secured 3rd Prize', img: bagalkotImg}, // fallback as ballari.jpeg does not exist
+            {h: 'h-80', title: 'Ekathva 3.0 Hackathon', role: 'Ballari - Secured 3rd Prize', img: ballariImg}, // fallback as ballari.jpeg does not exist
             {h: 'h-80', title: 'Convocation Day', role: 'Convocation', img: convocationImg},
             {h: 'h-80', title: 'End Of BCA Degree', role: 'End Of BCA Degree', img: degreeImg},
           ].map((item, i) => (
