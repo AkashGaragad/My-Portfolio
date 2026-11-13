@@ -1,10 +1,9 @@
-# 🌟 Akash Garagad — Interactive Developer Portfolio
+# 🌟 Akash Garagad — Portfolio
 
-A premium, interactive developer portfolio showcasing my journey as a BCA Graduate, Python Developer, and Web Developer. Designed with modern dark-mode aesthetics, custom cursor tracking, custom glow layouts, smooth transitions, and seamless integrations.
+I am an IT Technical Support Engineer (L1), passionate about technology and problem-solving. Skilled in hardware, software, Windows OS, networking, and IT infrastructure support. Focused on delivering effective technical solutions while continuously learning and growing in the IT industry.
 
 ## 🚀 Live Demo & Repository
 
-- **GitHub Repository**: [https://github.com/AkashGaragad/My-Portfolio](https://github.com/AkashGaragad/My-Portfolio)
 - **LIVE**: [https://akashgaragadportfolio.vercel.app/](https://akashgaragadportfolio.vercel.app/)
 
 ---
