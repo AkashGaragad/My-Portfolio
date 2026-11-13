@@ -14,7 +14,9 @@ const Gallery = ({ setHovered }) => {
     <section id="gallery" className="w-full py-32 bg-zinc-950 relative">
       <div className="max-w-7xl mx-auto px-6 md:px-12">
         <Reveal>
-          <h2 className="text-4xl md:text-6xl font-bold tracking-tighter mb-16 text-center">Hackathons & <span className="text-zinc-600">Events.</span></h2>
+          <h2 className="text-4xl md:text-6xl font-bold tracking-tighter mb-16 text-center">
+  Professional <span className="text-zinc-600">Experience.</span>
+</h2>
         </Reveal>
         
         <div className="columns-1 md:columns-2 lg:columns-3 gap-6 space-y-6">
