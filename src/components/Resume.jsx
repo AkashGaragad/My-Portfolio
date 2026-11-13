@@ -18,10 +18,10 @@ const Resume = () => {
           
           {[
       {
-  year: "2026 - Present",
+  year: "Jun 2026 - Present",
   title: "IT Technical Support Engineer (L1)",
   company: "Terait Technologies Pvt Ltd",
-  side: "left"
+  side: "right"
 },
             { year: "Jan 2026 - Apr 2026", title: "Python & Machine Learning Intern", company: "Vivaansha Systems Pvt Ltd", side: "left" },
             { year: "2024 - Present", title: "Open Source Developer", company: "Self-directed Projects", side: "right" },
