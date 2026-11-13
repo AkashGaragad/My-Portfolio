@@ -30,13 +30,13 @@ const About = ({ setHovered }) => {
           </Reveal>
           <Reveal delay={100}>
             <h3 className="text-3xl md:text-5xl font-semibold leading-tight mb-8">
-              I build scalable software solutions and design <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">efficient</span> systems.
+              I deliver reliable IT solutions and keep technology running smoothly. <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">efficient</span> systems.
             </h3>
           </Reveal>
           <Reveal delay={200}>
             <p className="text-zinc-400 text-lg leading-relaxed mb-6 font-light">
-              As a BCA graduate and Python/Web Developer, I bridge the gap between logic and real-world implementation. I have hands-on experience in software development and machine learning, with a passion for troubleshooting complex systems.
-            </p>
+             As a BCA graduate and IT Technical Support Engineer (L1) with 6+ months of hands-on experience, I specialize in hardware and software troubleshooting, Windows administration, network support, and IT infrastructure management.
+I focus on resolving technical challenges, maintaining system reliability, and providing efficient end-user support. I am passionate about technology, continuous learning, and developing my expertise in networking, Windows Server, and IT infrastructure. </p>
             <p className="text-zinc-400 text-lg leading-relaxed mb-10 font-light">
               My hackathon achievements and academic performance reflect a standard of quality, analytical thinking, and collaboration. I thrive on creating digital products that are optimized for speed, scalability, and user accessibility.
             </p>
