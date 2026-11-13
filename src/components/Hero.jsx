@@ -18,15 +18,14 @@ const Hero = ({ setHovered, scrollTo }) => {
         
         <Reveal delay={300}>
           <h1 className="text-5xl md:text-8xl lg:text-[10rem] font-bold tracking-tighter leading-[0.9] mb-6">
-            SOFTWARE <br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-zinc-400 to-zinc-600">DEVELOPER.</span>
+            Technical Support Engineer L1 <br />
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-zinc-400 to-zinc-600">Engineer L1.</span>
           </h1>
         </Reveal>
         
         <Reveal delay={500}>
           <p className="max-w-xl text-lg md:text-2xl text-zinc-400 font-light leading-relaxed mb-12">
-            BCA Graduate & Python/Web Developer. Building robust applications, implementing machine learning models, and solving complex problems with code.
-          </p>
+            BCA Graduate & IT Technical Support Engineer with 6+ months of hands-on experience in IT support, hardware and software troubleshooting, networking, and IT infrastructure management. Passionate about technology, problem-solving, and continuous learning.</p>
         </Reveal>
         
         <Reveal delay={700}>
