@@ -34,7 +34,12 @@ const Skills = ({ setHovered }) => {
   'Remote Desktop Support',
   'Incident Management'
 ].map((skill, i) => (  <div key={i} className="flex items-center space-x-16">
-              <span className="text-5xl md:text-7xl font-black text-transparent [-webkit-text-stroke:1px_rgba(255,255,255,0.2)] hover:[-webkit-text-stroke:1px_rgba(255,255,255,0.8)] transition-all duration-300 cursor-default uppercase">
+              <span className="text-5xl md:text-7xl font-black uppercase
+  text-transparent
+  [-webkit-text-stroke:1px_rgba(255,255,255,0.35)]
+  hover:text-white
+  hover:[-webkit-text-stroke:1px_rgba(255,255,255,1)]
+  transition-all duration-300 cursor-default">
                 {skill}
               </span>
               <span className="text-3xl text-zinc-700">✧</span>
