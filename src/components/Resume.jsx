@@ -17,6 +17,12 @@ const Resume = () => {
           <div className="hidden md:block absolute left-1/2 top-0 bottom-0 w-[1px] bg-white/10 -translate-x-1/2"></div>
           
           {[
+      {
+  year: "2026 - Present",
+  title: "IT Technical Support Engineer (L1)",
+  company: "Terait Technologies Pvt Ltd",
+  side: "left"
+},
             { year: "Jan 2026 - Apr 2026", title: "Python & Machine Learning Intern", company: "Vivaansha Systems Pvt Ltd", side: "left" },
             { year: "2024 - Present", title: "Open Source Developer", company: "Self-directed Projects", side: "right" },
             { year: "2023 - 2026", title: "Bachelor of Computer Applications (BCA)", company: "KLE Society's College of BCA Mahalingapur, Bagalkot University", side: "left" },
