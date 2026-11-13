@@ -18,7 +18,7 @@ const Hero = ({ setHovered, scrollTo }) => {
         
         <Reveal delay={300}>
           <h1 className="text-5xl md:text-8xl lg:text-[10rem] font-bold tracking-tighter leading-[0.9] mb-6">
-            Technical Support Engineer L1 <br />
+            Technical Support<br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-zinc-400 to-zinc-600">Engineer L1.</span>
           </h1>
         </Reveal>
